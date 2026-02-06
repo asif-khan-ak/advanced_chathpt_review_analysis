@@ -1,0 +1,11 @@
+{
+  "total_reviews": 196727,
+  "avg_rating": 4.50353535610262,
+  "nps_score": 64.35313912172705,
+  "positive_pct": 78.7975214383384,
+  "neutral_pct": 15.46508613459261,
+  "negative_pct": 5.737392427068984,
+  "ml_accuracy": 0.8910435622426676,
+  "n_clusters": 4,
+  "n_topics": 5
+}
